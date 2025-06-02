@@ -1,6 +1,6 @@
-# 👩‍💻 Suchitra Koyya — Data Science & AIML Explorer
+# 👩‍💻 Suchitra Koyya
 
-📍 Tech enthusiast diving deep into Data Science, Machine Learning & Python-powered solutions.  
+📍 Tech enthusiast diving deep into Data Science, Artificial Intelligence,Machine Learning & Python-powered solutions.  
 🎓 B.Tech in Computer Science & Engineering (Data Science) | Class of 2027  
 🚀 Passionate about crafting intelligent systems, analyzing data, and building smart applications.
 
@@ -57,6 +57,4 @@ I’m open to collaboration, mentorship, and exciting projects! Let’s innovate
 
 “Data never lies; it just needs the right explorer — and I’m here for the adventure.” 🚀
 
----
 
-*Made with ❤️ by Suchitra Koyya*  
