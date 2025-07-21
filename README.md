@@ -34,7 +34,7 @@
 | **ML & Data**   | scikit-learn · TensorFlow · Keras · Pandas · NumPy · Matplotlib · Power BI |
 | **Web Dev**     | HTML · CSS · JavaScript · React.js (Beginner) · Node.js (Beginner) |
 | **Cloud & DB**  | MySQL · AWS (Basic)                                  |
-| **Platforms**   | Jupyter Notebook · VS Code · Git . Github                   |
+| **Platforms**   | Jupyter Notebook · VS Code · Git · Github                   |
 
 ---
 
