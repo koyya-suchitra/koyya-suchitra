@@ -1,8 +1,19 @@
-# 👩‍💻 Suchitra Koyya
+<h1 align="center">👩‍💻 Suchitra Koyya</h1>
+<p align="center">
+  <strong>Tech enthusiast diving deep into Data Science, Artificial Intelligence, Machine Learning & Python-powered solutions.</strong><br>
+  🎓 B.Tech in Computer Science & Engineering (Data Science) | Class of 2027 <br>
+  🚀 Passionate about crafting intelligent systems, analyzing data, and building smart applications.
+</p>
 
-📍 Tech enthusiast diving deep into Data Science, Artificial Intelligence,Machine Learning & Python-powered solutions.  
-🎓 B.Tech in Computer Science & Engineering (Data Science) | Class of 2027  
-🚀 Passionate about crafting intelligent systems, analyzing data, and building smart applications.
+<p align="center">
+  <a href="mailto:suchitrakoyya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/suchitra-koyya-605a242b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/suchitrakoyya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/23A31A4411"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://twitter.com/suchireddyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@suchitrakoyya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://suchitrakoyya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -41,20 +52,6 @@
 
 ---
 
-## 📫 Connect with Me
-
-I’m open to collaboration, mentorship, and exciting projects! Let’s innovate together.
-
-- 📧 Email: suchitrakoyya@gmail.com  
-- 🔗 LinkedIn: [suchitra-koyya-605a242b5](https://linkedin.com/in/suchitra-koyya-605a242b5)  
-- 🐱 GitHub: [koyya-suchitra](https://github.com/koyya-suchitra)  
-- 🐦 Twitter: [@suchireddyz](https://twitter.com/suchireddyz)  
-- 🌐 Portfolio: [suchitrakoyya-portfolio.vercel.app](https://suchitrakoyya-portfolio.vercel.app/)  
-
----
-
 ## 💡 Fun Fact
 
 “Data never lies; it just needs the right explorer — and I’m here for the adventure.” 🚀
-
-
