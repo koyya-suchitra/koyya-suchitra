@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Developer;AI+%26+Data+Science+Explorer;Python+Developer;SIH+2025+Grand+Finalist;Tech+Blogger+%7C+Problem+Solver&center=true&width=500&height=45">
+<img src="https://img.shields.io/badge/Open%20to-Internships-green?style=for-the-badge"/>
 </p>
 
 <p align="center">
