@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to-Internships-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=for-the-badge"/>
 </p>
 
 <p align="center">
