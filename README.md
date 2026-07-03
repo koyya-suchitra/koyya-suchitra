@@ -22,7 +22,7 @@ ISRO START@2K26 | WTM | GDG | IAENG | CSD’27 🎓
   <a href="https://leetcode.com/u/suchitrakoyya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/profile/23A31A4411"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
   <a href="https://github.com/koyya-suchitra"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://suchitrakoyya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://suchitra-koyya-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=vercel"/></a>
 </p>
 
 ---
