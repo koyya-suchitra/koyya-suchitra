@@ -1,0 +1,31 @@
+{
+  "canvas": {"w": 1180, "h": 610},
+  "colors": {
+    "bg": "#0A101F",
+    "panel_bg": "#0D1526",
+    "chrome": "#22D3EE",
+    "accent": "#10B981",
+    "violet": "#8B7CF6",
+    "text_dim": "#5B7085",
+    "text_main": "#C8E4EE",
+    "portrait_dot": "#57C7EA"
+  },
+  "terminal_title": "profile.sh --live",
+  "rows": [
+    {"label": "Subject",        "value": "Suchitra Reddy Koyya", "confirmed": true},
+    {"label": "Role",           "value": "Aspiring ML Engineer / Full-Stack Dev", "confirmed": false},
+    {"label": "Origin",         "value": "India", "confirmed": true},
+    {"label": "Education",      "value": "B.Tech CS (Data Science), Final Year", "confirmed": false},
+    {"label": "Status",         "value": "Building + Learning + Shipping", "confirmed": true},
+    {"label": "ToolChain",      "value": "VS Code . Git . GitHub . Figma", "confirmed": true},
+    {"label": "Core.Lang",      "value": "Python . TypeScript", "confirmed": false},
+    {"label": "Core.Frontend",  "value": "Next.js . React . Tailwind", "confirmed": false},
+    {"label": "Core.Backend",   "value": "FastAPI . Python", "confirmed": false},
+    {"label": "Core.Database",  "value": "PostgreSQL", "confirmed": false},
+    {"label": "Core.Infra",     "value": "Docker . GitHub Actions", "confirmed": false},
+    {"label": "Grid.Mail",      "value": "your.email@example.com", "confirmed": false},
+    {"label": "Grid.Portfolio", "value": "yourportfolio.dev", "confirmed": false},
+    {"label": "Grid.LinkedIn",  "value": "linkedin.com/in/your-handle", "confirmed": false},
+    {"label": "Grid.GitHub",    "value": "@koyya-suchitra", "confirmed": true}
+  ]
+}
