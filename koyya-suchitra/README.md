@@ -1,27 +1,20 @@
-<!-- ===== THEME-AWARE ANIMATED HERO BANNER ===== -->
-
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/dark.svg"
+      srcset="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/main/github-banner/dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/light.svg"
+      srcset="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/main/github-banner/light.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/light.svg"
+      src="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/main/github-banner/light.svg"
       alt="Animated developer profile banner"
       width="100%"
     />
   </picture>
 </p>
-
-
-<!-- ===== YOUR EXISTING README CONTENT ===== -->
-
-<!-- Keep your existing introduction, about me, skills, etc. here -->
 
 
 <!-- ===== CONTRIBUTION MAP ===== -->
