@@ -124,3 +124,19 @@
 </div>
 
 <!-- ===== END SOCIAL BADGES ===== -->
+<!-- ===== FEATURED PROJECTS ===== -->
+
+<br />
+<br />
+
+<h2 align="center">🚀 FEATURED.PROJECTS</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/projects/projects.svg"
+    alt="Suchitra's Featured Projects Dashboard"
+    width="100%"
+  />
+</p>
+
+<!-- ===== END FEATURED PROJECTS ===== -->
