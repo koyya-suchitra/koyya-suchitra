@@ -4,14 +4,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/main/dark.svg"
+      srcset="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/main/light.svg"
+      srcset="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/light.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/main/light.svg"
+      src="https://raw.githubusercontent.com/koyya-suchitra/koyya-suchitra/light.svg"
       alt="Animated developer profile banner"
       width="100%"
     />
