@@ -105,12 +105,7 @@
   />
 </a>
 
-<a href="https://medium.com/@suchitrakoyya">
-  <img
-    src="https://img.shields.io/badge/Medium-0A101F?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=0A101F"
-    alt="Medium"
-  />
-</a>
+
 
 &nbsp;&nbsp;
 
